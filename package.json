@@ -1,0 +1,14 @@
+{
+  "name": "gladys-magic-home-led",
+  "version": "0.0.1",
+  "description": "Magic-Home LED Lights control for Gladys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varun Sikka <sikkavarun@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "magic-home": "1.4.0"
+  }
+}
